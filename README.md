@@ -1,1 +1,1 @@
-An re-implementation of the Automatic differentiation reweighting algorithm from the paper "Learning to Reweight Examples for Robust Deep Learning (https://arxiv.org/abs/1803.09050)" with PyTorch and Higher(https://github.com/facebookresearch/higher).
+A re-implementation of the Automatic differentiation reweighting algorithm from the paper "Learning to Reweight Examples for Robust Deep Learning (https://arxiv.org/abs/1803.09050)" with PyTorch and Higher(https://github.com/facebookresearch/higher).
